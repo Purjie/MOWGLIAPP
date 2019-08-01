@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="hijau1">#11D3BE</color>
+    <color name="kuning">#FDC607</color>
+    <color name="biru">#00103F</color>
+    <color name="putih">#FFFFFF</color>
+
+    <color name="LightBlue">#43b3e6</color>
+    <color name="ShadowHeader">#d1d2d4</color>
+    <color name="separator">#939597</color>
+    <color name="FontTitle">#404041</color>
+    <color name="fontdesc">#808284</color>
+    <color name="Background">#ffffff</color>
+    <color name="Backgroundinvitefriend">#f1f1f2</color>
+    <color name="background_invite_friend">#f1f1f2</color>
+    <color name="abu1">#38437c</color>
+    <color name="abu2">#e9e9e9</color>
+
+    <color name="gold1">#e1d452</color>
+    <color name="gold2">#fce71b</color>
+    <color name="hitam1">#000000</color>
+    <color name="biru1">#34A9E5</color>
+    <color name="biru2">#26CDD3</color>
+    <color name="biru3">#1750CC</color>
+    <color name="merah1">#F7679E</color>
+    <color name="merah2">#F6A778</color>
+
+    <color name="hijau2">#4EDF9D</color>
+    <color name="hijau3">#00C2A0</color>
+    <color name="ungu1">#E48CF0</color>
+    <color name="ungu2">#8986F8</color>
+    <color name="kuning1">#FFDD00</color>
+    <color name="kuning2">#FFA300</color>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4253818129",
+    "firebase_url": "https://mowgli-81b7f.firebaseio.com",
+    "project_id": "mowgli-81b7f",
+    "storage_bucket": "mowgli-81b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4253818129:android:73744cc288b79c3c",
+        "android_client_info": {
+          "package_name": "com.purjie.mowgliapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4253818129-8fttcq4p7ssr1pj8agrc44ji4ef9k46t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purjie.mowgliapp",
+            "certificate_hash": "11f2ec6687aff6e99b02b446eec402dfe395d79b"
+          }
+        },
+        {
+          "client_id": "4253818129-bufh0644a6hnl3rt7ukm1o3idk47fr68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29iAGQFEvwz5_ueVk210aUjwiplwPVhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4253818129-bufh0644a6hnl3rt7ukm1o3idk47fr68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

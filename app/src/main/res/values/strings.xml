@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MOWGLI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sejarah">Awal MOWGLI didirikan pada tanggal 2 Oktober 1995 oleh Ka Dik dan beberapa lainnya. Nama MOWGLI sendiri diambil dari
+    kisah seroang anak yang diasuh oleh serigala yang diceritakan dan juga dari buku scouting for boys.
+    Didirikannya MOWGLI sendiri untuk menjadi wadah silaturahmi bagi alumni PRAMUKA MAN 2 BANDUNG
+    dan menjadi sarana pengabdian atau dedikasi bagi para alumni untuk PRAMUKA MAN 2 BANDUNG.</string>
+</resources>
